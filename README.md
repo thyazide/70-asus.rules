@@ -11,7 +11,7 @@ SUBSYSTEM=="usb", ATTRS{idVendor}=="0b05", TAG+="uaccess"
 
 Save as `70-asus.rules`.
 
-2. Move the file to /etc/udev/rules.d/
+2. Move the file to `/etc/udev/rules.d/`.
 
 ```
 sudo mv /path/to/saved/70-asus.rules /etc/udev/rules.d/
