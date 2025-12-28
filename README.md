@@ -9,7 +9,7 @@ SUBSYSTEM=="hidraw", ATTRS{idVendor}=="0b05", TAG+="uaccess"
 SUBSYSTEM=="usb", ATTRS{idVendor}=="0b05", TAG+="uaccess"
 ```
 
-Save as `70-asus.rules` .
+Save as `70-asus.rules`.
 
 2. Move the file to /etc/udev/rules.d/
 
