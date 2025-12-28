@@ -17,7 +17,7 @@ Save as `70-asus.rules` .
 
 Then run: 
 
-	sudo udevadm control --reload-rules && sudo udevadm trigger
+	`sudo udevadm control --reload-rules && sudo udevadm trigger`
 
 Or reboot your system. 
 
