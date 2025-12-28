@@ -30,6 +30,9 @@ Or reboot your system.
 
 	- Click `Connect`.
 	- On the pop up window choose `ASUSTek Computer, Inc. ROG SPEEDNOVA 8K RECEIVER` then click `Connect`. 
+# Webapp-manager 
+You can use webapp-manager to create a standalone app that can be launched directly. Either from your app launcher or desktop shortcut.
 
+https://fosspost.org/how-to-install-webapps-on-linux
 # Attribution
 Thank you to `Adam Algaert` from The Full Nerd linux discord channel for pointing me in the right direction for this fix. 
