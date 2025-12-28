@@ -25,3 +25,6 @@ Or reboot your system.
 
 	- Click `Connect`.
 	- On the pop up window choose `ASUSTek Computer, Inc. ROG SPEEDNOVA 8K RECEIVER` then click `Connect`. 
+
+
+Thank you to `Adam Algaert` from The Full Nerd linux discord channel for pointing me in the right direction for this fix. 
