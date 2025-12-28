@@ -13,7 +13,7 @@ Save as `70-asus.rules` .
 
 2. Move the file to /etc/udev/rules.d/
 
-	sudo mv /path/to/saved/70-asus.rules /etc/udev/rules.d/
+	'sudo mv /path/to/saved/70-asus.rules /etc/udev/rules.d/'
 
 Then run: 
 
